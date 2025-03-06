@@ -1,7 +1,7 @@
-# [Your Name] - Community Manager Portfolio
+# Md Shafiqul Islam - Community Manager Portfolio
 
 ## About Me
-Hi, I’m [Your Name], a passionate Community Manager with experience in Web3 and crypto communities. I specialize in growing engaged communities, organizing events, and driving results through strategic campaigns.
+Hi, I’m Md shafiqul Islam, a passionate Community Manager with experience in Web3 and crypto communities. I specialize in growing engaged communities, organizing events, and driving results through strategic campaigns.
 
 ## Skills
 - Community Engagement
@@ -11,25 +11,26 @@ Hi, I’m [Your Name], a passionate Community Manager with experience in Web3 an
 - Content Creation
 
 ## Experience
-### Community Manager at [Project Name]
-- Grew Discord community by 200% in 6 months.
-- Organized AMAs with industry leaders, attracting 500+ attendees.
-- Created educational content on blockchain and DeFi, increasing engagement by 40%.
+### Community Manager
+- Increased revenues, clients and overall brand recognition by
+  developing and delivering effective and comprehensive
+  marketing and public relations strategies. 
+- Facilitating conversations and discussions. 
+- Research and collaboration within the community. 
+  Hosting and managing in-person, hybrid or virtual events.
 
-### Social Media Manager at [Project Name]
+### Social Media Manager
 - Managed Twitter and LinkedIn accounts, increasing followers by 50%.
 - Launched NFT campaigns that drove 1,000+ new community members.
 
 ## Projects
 ### Web3 AMA Series
 - Hosted monthly AMAs with crypto experts, boosting community participation.
-- [Link to Event Recap or Screenshots]
 
 ### NFT Community Campaign
 - Designed and executed a campaign that increased Discord membership by 30%.
-- [Link to Campaign Details or Metrics]
 
 ## Contact Me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- X (Twitter): [Your Twitter Handle]
+- Email: 15103188@iubat.edu
+- LinkedIn: https://linkedin.com/in/shafiqulislamiubat
+- X (Twitter): https://twitter.com/sajibsikder13
